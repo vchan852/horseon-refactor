@@ -4,7 +4,7 @@
 
 Updated webpage and removed redundant code (HTML and CSS): 
 + updated generic to semantic elements
-+ styled and positioned code to follow a logical structure
++ styled and positioned ode to follow a logical structure
 + added accessible alt attributes
 + optimized for search engine
 
@@ -24,6 +24,10 @@ The following links reach my deployed webpage and github repo page
 ## Images
 
 ![Website Preview](assets/images/README-img1.png)
+
+Picture displays the website of the html that was being refactored.
+
+
 
 
 
